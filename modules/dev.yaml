@@ -1,0 +1,25 @@
+description: Development tools and languages
+
+packages:
+  - git
+  - neovim
+  - neovim-remote
+  - tmux
+  - lazygit
+  - bat
+  - eza
+  - fd
+  - ripgrep
+  - dust
+  - htop
+  - btop
+  - starship
+  - zoxide
+  - fnm
+  - pyenv
+  - rustup
+  - code
+  - silicon
+  # not used right now
+  - pgadmin4-desktop
+  - postgresql

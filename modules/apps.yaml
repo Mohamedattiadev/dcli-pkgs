@@ -1,0 +1,27 @@
+description: Daily user applications
+
+packages:
+  - alacritty
+  - kitty
+  - brave-bin
+  - firefox
+  - qutebrowser
+  - obsidian
+  - telegram-desktop
+  - vlc
+  - mpv
+  - zathura
+  - zathura-pdf-poppler
+  - okular
+  - pcmanfm
+  - dolphin
+  - kate
+  - copyq
+  - rofi
+  - rofi-pass
+  - dunst
+  - nitrogen
+  - feh
+  - arandr
+  - pavucontrol
+  - mission-center
