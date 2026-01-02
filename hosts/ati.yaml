@@ -17,6 +17,8 @@ enabled_modules:
   - media
   - fonts
   - system-tools
+  - sys
+  - system-packages-ati
 
 # Host-specific packages
 packages: []
