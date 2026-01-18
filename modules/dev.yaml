@@ -20,6 +20,6 @@ packages:
   - rustup
   - code
   - silicon
-  # not used right now
-  - pgadmin4-desktop
-  - postgresql
+  # not needed right now
+  # - pgadmin4-desktop
+  # - postgresql
