@@ -1,6 +1,1 @@
-# dcli configuration pointer
-# This file points to the active host configuration
-# The full configuration lives in hosts/ati.yaml
-
-# Active host
-host: ati
+../../.dotfiles/.config/arch-config/config.yaml

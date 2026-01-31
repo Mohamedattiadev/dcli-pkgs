@@ -1,11 +1,1 @@
-description: Media and audio stack
-
-packages:
-  - pipewire
-  - pipewire-alsa
-  - pipewire-pulse
-  - pipewire-jack
-  - wireplumber
-  - alsa-utils
-  - libpulse
-  - mpv
+../../../.dotfiles/.config/arch-config/modules/media.yaml

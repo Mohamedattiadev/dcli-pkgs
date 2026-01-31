@@ -1,15 +1,1 @@
-description: System utilities
-
-packages:
-  - acpi
-  - brightnessctl
-  - powertop
-  # - tlp               -- not using
-  - smartmontools
-  - unzip
-  - zip
-  - wget
-  - xclip
-  - xdotool
-  - inotify-tools
-  - translate-shell
+../../../.dotfiles/.config/arch-config/modules/system-tools.yaml
