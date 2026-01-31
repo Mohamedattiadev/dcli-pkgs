@@ -1,1 +1,2 @@
-../../../.dotfiles/.config/arch-config/modules/declared-packages.yaml
+description: Packages installed via dcli install or dcli search commands
+packages: []

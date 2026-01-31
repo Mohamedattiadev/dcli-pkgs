@@ -1,1 +1,18 @@
-../../../.dotfiles/.config/arch-config/modules/media.yaml
+description: Media and audio stack
+
+packages:
+  - pipewire
+  - pipewire-alsa
+  - pipewire-pulse
+  - pipewire-jack
+  - wireplumber
+  - alsa-utils
+  - libpulse
+  - gst-plugin-pipewire
+  - sox
+  - espeak-ng
+
+exclude: []
+conflicts:
+  - pulseaudio
+  - pulseaudio-alsa
