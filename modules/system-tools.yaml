@@ -20,6 +20,7 @@ packages:
   - didyoumean
   - dmscripts-git
   # files sys ,  mounts , media transfer
+  - shell-color-scripts
   - gvfs
   - gvfs-mtp
   - openslide
