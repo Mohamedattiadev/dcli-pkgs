@@ -9,7 +9,6 @@ packages:
   - python-installer
   - python-packaging
   - python-rich
-  - python-pillow
   - python-beautifulsoup4
   - python-gtts
   - python-dbus-next

@@ -7,6 +7,8 @@ packages:
   - xorg-fonts-misc
   - wmctrl
   - xwallpaper
+  - xorg-setxkbmap
+  - xorg-fonts-encodings
 
 exclude: []
 conflicts: []
